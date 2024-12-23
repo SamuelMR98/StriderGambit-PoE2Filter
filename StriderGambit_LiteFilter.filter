@@ -1,0 +1,18 @@
+#===============================================================================================================
+# StriderGambit's Lite Filter for Path of Exile 2
+#===============================================================================================================
+# Version: 0.1.0
+# Author: StriderGambit (Samuel Mera Ricardo)
+#
+# This is a minimalistic filter for Path of Exile 2. It is designed to be as simple as possible, while still
+# providing a great filtering experience. It is focused more on highlighting rather than hiding loot.
+#
+
+#--------------------------------------------------#
+#---------------------[Uniques]--------------------#
+
+Show
+Rarity Unique
+SetTextColor 255 255 119
+SetBorderColor 255 255 119
+SetBackgroundColor 0 0 0
